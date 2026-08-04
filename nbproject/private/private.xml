@@ -5,6 +5,10 @@
         <group>
             <file>file:/D:/FlappyBird/src/App.java</file>
             <file>file:/D:/FlappyBird/src/FlappyBird.java</file>
+            <file>file:/D:/FlappyBird/src/flappybird.png</file>
+            <file>file:/D:/FlappyBird/src/flappybirdbg.png</file>
+            <file>file:/D:/FlappyBird/src/toppipe.png</file>
+            <file>file:/D:/FlappyBird/src/bottompipe.png</file>
         </group>
     </open-files>
 </project-private>
